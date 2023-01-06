@@ -1,0 +1,14 @@
+//TODO
+https://medium.com/@berkaybasoz/spring-boot-h2-database-setup-6996a1c18cc
+- implement DB
+- simple entity crud
+- add react
+- simple react page
+- simple react crud to end point
+- image capture and read to text functionality
+- crud image text to db
+- add authentication
+- add Dockerfile
+- add back end and front end textings
+- push to github
+- create CICD on 3rd server
