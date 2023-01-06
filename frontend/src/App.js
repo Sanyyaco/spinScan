@@ -24,7 +24,7 @@ class App extends Component {
             </div>
           </header>
 //          <body>
-//           <h2>{hello.hello}</h2>
+//           <h2>{hello.hello Nur}</h2>
 //          </body>
         </div>
     );
